@@ -1,12 +1,12 @@
 # Coding Competitions
 *For use in SCHS Comp Sci Club*
 
-## Google Code Jam:
+## Google Code Jam
 *Also Distributed Code Jam*
 #### Links:
 [Solutions and Problems](https://codejam.withgoogle.com/codejam/past-contests)
 
-## Facebook Hacker Cup:
+## Facebook Hacker Cup
 #### Links:
 [Solutions and Problems](https://www.facebook.com/pg/hackercup/notes/)
 ## ACM-ICPC
