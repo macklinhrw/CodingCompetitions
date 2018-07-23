@@ -16,4 +16,6 @@
 ## SnackDown
 #### Links:
 [Solutions and Problems](https://www.codechef.com/snackdown/2017/practice)
-
+## Congressional App Challenge
+#### Links:
+[CA-18 Winning App: Mere (Video)](https://www.youtube.com/watch?v=EZs5ZZv6OdI&feature=youtu.be)
